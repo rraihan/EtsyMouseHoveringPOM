@@ -20,7 +20,8 @@ public class EtsyHomeHoverTestScripts {
 	
 	
 	/*
-	 * public EtsyHomeHoverTestScripts(WebDriver driver) { this.driver = driver;
+	 * public EtsyHomeHoverTestScripts(WebDriver driver)
+       { this.driver = driver;
 	 * PageFactory.initElements(driver, this);
 	 */
 		
